@@ -1,0 +1,73 @@
+{
+  "segments": [
+    {
+      "id": "4fca",
+      "segment_name": "sandhya",
+      "schema": [
+        {
+          "first_name": "First Name"
+        },
+        {
+          "last_name": "Last Name"
+        }
+      ]
+    },
+    {
+      "id": "73a6",
+      "segment_name": "",
+      "schema": [
+        {
+          "first_name": "First Name"
+        },
+        {
+          "last_name": "Last Name"
+        },
+        {
+          "gender": "Gender"
+        }
+      ]
+    },
+    {
+      "id": "0ec3",
+      "segment_name": "sandhya",
+      "schema": [
+        {
+          "first_name": "First Name"
+        },
+        {
+          "last_name": "Last Name"
+        }
+      ]
+    },
+    {
+      "id": "d8c3",
+      "segment_name": "",
+      "schema": [
+        {
+          "first_name": "First Name"
+        },
+        {
+          "last_name": "Last Name"
+        },
+        {
+          "gender": "Gender"
+        },
+        {
+          "age": "Age"
+        }
+      ]
+    },
+    {
+      "id": "b609",
+      "segment_name": "sana",
+      "schema": [
+        {
+          "last_name": "Last Name"
+        },
+        {
+          "state": "State"
+        }
+      ]
+    }
+  ]
+}
